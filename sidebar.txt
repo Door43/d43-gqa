@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gqa:home|Door43 (gqa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gqa|d43-gqa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gqa/archive/master.zip|d43-gqa.zip]]
+
+**Recent Changes**
+{{changes>ns = gqa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gqa|Ethnologue data]]
+
